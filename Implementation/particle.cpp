@@ -1,6 +1,6 @@
 #include "../Headers/particle.h"
-#include <iostream>
-using namespace std;
+//#include <iostream>
+//using namespace std;
 
 Particle::Particle( float x, float y, float assignedRadius, int assignedMass = 1 ) {
     // Initialize several properties of the particle
