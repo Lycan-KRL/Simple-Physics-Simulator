@@ -1,6 +1,6 @@
 #include "../Headers/dominus.h"
-#include <iostream>
-using namespace std;
+//#include <iostream>
+//using namespace std;
 
 Dominus::Dominus( RenderWindow& reference, const int W, const int H ) {
     // Catch reference of the running window
